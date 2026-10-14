@@ -1113,3 +1113,11 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+.profile-img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+}
